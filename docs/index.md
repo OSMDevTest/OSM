@@ -12,5 +12,5 @@ This is a roadmap for the implementation of the <b> Engagement Apps pipeline </b
 
 The Engagement Apps are the result of dialogues upon the Open Museum. We therefore invite you to take always into consideration the can we/should we trajectories to have meaningful conversations.
 
-![polarities](polarities.jpg)
+![polarities](/polarities.jpg)
 
