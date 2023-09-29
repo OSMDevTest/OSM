@@ -10,3 +10,9 @@ In terms of design, the approach adheres closely to the project's objectives, en
 <br>
 The concept of <b>plausibility</b> (i.e., the degree to which an idea seems believable) is one of the seven properties of sensemaking – that leads us to put a strong accent in the use of <b>narratives</b> that would allow sense making, opening the path to the consecutive metacognition moment. A focus on the interaction between materiality and narratives helps scholars understand how organizations engage in authenticity work to maintain resonance with their audiences. <br>
 Furthermore, the narrative will try to demystifying the objects we tend to take for granted, the attempt to facilitate change along aesthetic evolution and renewing styles, the expectations on vernacular materials and renewed proposal for the definition of inclusive design by incorporating other-than-humans.
+
+<br>
+<br>
+<br>
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=af28eeae-5efa-11ee-b5be-6595d9b17862"></iframe>
