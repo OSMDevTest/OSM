@@ -14,5 +14,3 @@ The Engagement Apps are the result of dialogues upon the Open Museum. We therefo
 
 ![polarities](polarities.jpg)
 
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPGCc3Zs=/?moveToViewport=189329,19336,17554,12259&embedId=977517265221" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
