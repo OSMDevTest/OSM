@@ -30,15 +30,8 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/solid/globe
       link: https://github.com/james-willett
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
-
-
-
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -59,5 +52,4 @@ markdown_extensions:
 
 
 copyright:
-  2023 Giusy Grieco
-  2023 Arthur Clay
+  2023 A Clay | G Grieco
