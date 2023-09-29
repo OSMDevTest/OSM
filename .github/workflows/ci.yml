@@ -13,7 +13,10 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
-          key: {{ github.ref }}
-          pat: .cache
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
       - run: pip install mkdocs-material
-      - run: mkdocsgh-deploy --force
+      - run: mkdocs gh-deploy --force
