@@ -11,4 +11,4 @@ The design and tech documentaion here is intented to create a virtuos exchange o
 ## Combining knowledges
 The Engagement Apps are the result of dialogues upon the Open Museum. We therefore invite you to take always into consideration the can we/should we trajectories to have meaningful conversations.
 
-<img src="/polarities.png" alt="canshould" style="height: 100px; width:100px;"/>
+<img src="docs/polarities.png" alt="canshould" style="height: 100px; width:100px;"/>
