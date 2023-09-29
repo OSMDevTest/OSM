@@ -34,6 +34,9 @@ extra:
       link: https://github.com/james-willett
 
 markdown_extensions:
+  - lightgallery:
+    show_description_in_lightgallery: true
+    show_description_as_inline_caption: false
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
