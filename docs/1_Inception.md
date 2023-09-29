@@ -1,2 +1,5 @@
 # 1: Inception
-Delve into the heart of the Open Museum's mission – cultivating profound engagement with cultural heritage. Weblets are your gateway to curated narratives and artifacts that foster appreciation and understanding.
+## WHAT 
+Engagement App first inception is made through coincise weblets. Weblets are your gateway to curated narratives and artifacts that foster appreciation and understanding. <br>
+## WHY
+Research underscores the foundational role of one-to-one reciprocal interactions as the bedrock of trust, forming the basis for enduring connections in families, friendships, and love relationships. Extending beyond individual interactions, the intricate network of these engagements within a group, often referred to as 'social capital,' enhances the collective ability to act for the common welfare and ensures the group's resilience. In the digital age, the Open Museum's Engagement Apps serve as a contemporary manifestation of reciprocity, fostering trust and building bonds within a broader societal context. Through interactive and engaging experiences, these digital tools aim to scale the principles of reciprocity, strengthening the fabric of trust that holds society together in the face of technological advancements and evolving social dynamics.
