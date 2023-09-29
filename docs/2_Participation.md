@@ -1,4 +1,4 @@
-# 2: Features
+# 2: Interaction Features
 
 Embark on a transformative journey through three phases – Inception, Evolution, and Refinement. Phase I lays the groundwork with Weblets, ensuring simplicity and setting the stage for an innovative and user-centric design.
 
