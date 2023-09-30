@@ -1,11 +1,14 @@
 # 3: Development
-## On Automation
-**Revised Version:**
-
-Ethical challenges emerge when individuals are unaware that their communication involves an automated system. While these systems excel at mimicking human behavior, they remain distinctly non-human, leading to actions that deviate from human norms. Unpredictable errors may occur, and these systems lack the capability to comprehend or elucidate such errors.
-
+## Design and Deploy_Ethical principles for Automation
+Ethical challenges emerge when individuals are unaware that their communication involves an automated system. While these systems excel at mimicking human behavior, they remain distinctly non-human, leading to actions that deviate from human norms. Unpredictable errors may occur, and these systems lack the capability to comprehend or elucidate such errors. <br>
 Humans possess a need and entitlement to be informed when engaging with an automated system, particularly if the AI's decisions significantly impact human lives. Distinguishing between an automatic email confirming an online purchase and an automated denial of the right to be with one's child underscores the importance of transparency in AI interactions. <br>
+We can automate our digital solutions by using artificial intelligence and algorithms. Automation is often a good thing because machines can solve tasks faster and more accurately than humans, but on the other hand, machines also make mistakes that can be quite significant and have serious consequences for humans. It is your ethical choice whether you want to design automated solutions that help people or override people. <br>
 
-We can automate our digital solutions by using artificial intelligence and algorithms. Automation is often a good thing because machines can solve tasks faster and more accurately than humans, but on the other hand, machines also make mistakes that can be quite significant and have serious consequences for humans. It is your ethical choice whether you want to design automated solutions that help people or override people
+Algorithms, being susceptible to errors and influenced by biased data, can lead to systematic discrimination. If the "engine bonnet" of the automated system isn't accessible, identifying errors and injustices becomes challenging. While only a select few may possess the expertise to understand the algorithms fully, transparency entails making these algorithms accessible and open to scrutiny by experts and legislators, advocating for the interests of the general populace.
+<br>
+<br>
+<br>
+
 Ethical feasibility actions done by the machine learning/AI system may concern:
 - Continuously check the algorithms for bias, and in the case of colors, train the algorithm using data from several specific labelling managed by expert historians.
+[...]
