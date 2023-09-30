@@ -31,7 +31,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/solid/globe
-      link: https://github.com/james-willett
+      link: https://osmguide.github.io/OSMweb/
 
 markdown_extensions:
   - pymdownx.highlight:
