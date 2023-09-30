@@ -6,38 +6,29 @@ See the board below to explore how sense of care and authenticity can be enacted
 <b> ✦ See the leverage points map below </b>
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNfq63fI=/?moveToViewport=-1653,-201,2538,1179&embedId=287487744021" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
-## Ethical Design Principles for AI integration
-
+## Ethical Design Choices
 Automated systems are typically engineered for swift decision-making, often without prioritizing user understanding of the decision-making process. However, there are instances where comprehension of automated decision-making becomes essential. <br>
 Algorithms, being susceptible to errors and influenced by biased data, can lead to systematic discrimination. If the "engine bonnet" of the automated system isn't accessible, identifying errors and injustices becomes challenging. While only a select few may possess the expertise to understand the algorithms fully, transparency entails making these algorithms accessible and open to scrutiny by experts and legislators, advocating for the interests of the general populace.
 
-<br>
-As automated systems increasingly take on decision-making roles, it becomes imperative for these systems to be designed with the capability to offer explanations for their decisions. However, determining when a system should provide self-explanations involves navigating ethical considerations. While this is crucial for decisions significantly impacting human life, many algorithmic decisions in practical scenarios might be trivial and routine, not warranting detailed explanations. For instance, an algorithm automatically turning off lights in a room may not necessitate an elaborate justification.
-
-- Make it obvious to users that they are communicating with an automated system.
-- Don’t design your automated system in a way that mimics human behavior (Chatting with a robot shouldn’t happen in the same interface as when chatting with a human).
-- Make automated systems more mechanical (preserve the robot voice and rigid robotic language).
-- Try to explain to the public how your automated systems make decisions.
-- Make your algorithms open and accessible so that experts can “open the bonnet.”
-- Engage experts to review your algorithms.
-- Try to develop simple algorithms with humanly understandable logic.
-- As much as possible, avoid black box systems where you do not even understand how the algorithms work.
-- Always try to design algorithms that explain themselves while they’re being used.
-- If possible, avoid black-box algorithms where an explanation is important.
-- Always make sure through the digital design that users can request an explanation an algorithmic decision.
-- Ultimately, one should always be able to get an explanation from a human being for an algorithmic decision.
-- Make your algorithms open and accessible so that experts can “open the bonnet.”
-- Invite experts to review your algorithms.
-- Verify that machine learning data represents all the stakeholders that may be affected by the algorithm.
-- Avoid having your digital solution automate existing and unwanted biases.
-- Regularly check your algorithms for bias and preferably use independent experts for this.
-- Make sure to have diversity in your development team to raise awareness of unwanted bias.
+[...]
 
 
 
+## Great Wall Climb Engagement App - main features
+Narrative Construction with AI <br>
+At its core, GreatWall Climb introduces AI into the narrative construction process. This transformative addition significantly alters user engagement dynamics. AI serves as a creative partner, contributing to the development of rich and immersive storylines that enhance the overall museum experience.
+
+Fundamental Alteration of User Engagement <br>
+The integration of AI in narrative construction goes beyond conventional storytelling. It adapts to user interactions in real-time, creating personalized and dynamic narratives. This adaptive storytelling capability ensures that each user's journey through the GreatWall Climb is unique, fostering a deeper connection with the content.
+
+AI-Enhanced Exploration <br>
+Users engaging with the GreatWall Climb App are not mere spectators; they are active participants in the exploration of cultural heritage. AI algorithms analyze user preferences, behaviors, and interactions, tailoring the experience to individual preferences. This AI-driven personalization enhances user satisfaction and encourages prolonged engagement.
+
+Augmented Reality Immersion <br>
+The transition to the Mobile App stage also introduces Augmented Reality (AR). AR elements are seamlessly woven into the user experience, blurring the lines between the digital and physical worlds. Users witness historical narratives come to life, overlaid on the physical environment, creating a captivating and immersive journey.
+
+Cultural Restoration through Digital Narratives <br> 
+GreatWall Climb serves as a digital platform for the restoration of cultural narratives. AI algorithms work in tandem with curated content to recreate historical events and stories. This not only preserves cultural heritage but also breathes new life into historical narratives, making them accessible and engaging for contemporary audiences.
 
 
 
-
-
-## Design System
