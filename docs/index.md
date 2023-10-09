@@ -1,4 +1,4 @@
-# HELLO
+# 
 This is a roadmap for the implementation of the <b> Engagement Apps pipeline </b>, according to the Open Museum modular structure. <br>
 
 ## Combining knowledges
